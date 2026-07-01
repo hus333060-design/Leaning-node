@@ -57,3 +57,5 @@
 // new Worker("./ab.js");
 // new Worker("./abc.js");
 // threade 13 - 16  it is using parallelism :- mutiple tasks excute at a time
+
+// main threaded is always attach to every process whenever process go to excute actually this main thread goes there. but you can see system level threads 
